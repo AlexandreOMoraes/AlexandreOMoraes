@@ -13,13 +13,24 @@ Algumas coisas sobre mim
   <img height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlexandreOMoraes&layout=compact&langs_count=7&theme=draculaby"/>
 </div>
 
-<h1 align="center">Uso no meu dia a dia</h1>
-![SQL]https://img.shields.io/badge/-SQL-black?style=flat-square&logo=microsoftsqlserver
 
+<h1 align="center">Tenho conhecimento
+  
+![SQL](https://img.shields.io/badge/-SQL-black?style=flat&logo-square&logo=microsoftsqlserver)
+![Power BI](https://img.shields.io/badge/-PowerBi-black?style=flat&logo-square&logo=PowerBi)
+![Jupyter](https://img.shields.io/badge/-Jupyter-black?style=flat&logo-square&logo=Jupyter)
+![DBT](https://img.shields.io/badge/-DBT-black?style=flat&logo-square&logo=DBT)
+![RedShift](https://img.shields.io/badge/-RedShift-black?style=flat&logo-square&logo=amazon)
+![Metabase](https://img.shields.io/badge/-Metabase-black?style=flat&logo-square&logo=Metabase)
+  
+</h1>
 
-<h1 align="center">Estou aprendendo</h1>
- ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
+<h1 align="center">Estou aprendendo
 
+![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
+![Github](https://img.shields.io/badge/-Github-black?style=flat-square&logo=Github)
+  
+</h1>
 
 <h1 align="center">Quero aprender</h1>
 
